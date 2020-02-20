@@ -11,6 +11,8 @@ ServerTeam历史博物馆，我们的历史将永远被保存在这个Github仓�
 
 条目以Markdown的形式编辑、储存与修改。
 
+`/html`为博物馆网站html目录，在运行完HTML生成器后，内容会自动更新。
+
 `/Entries`为条目储存目录，请直接将条目的Markdown文件放置在条目目录中。
 
 `/PageGenerator/run.py`为条目HTML生成器，每次当新增、修改或删除完条目后，
