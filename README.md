@@ -26,7 +26,7 @@ ServerTeam历史博物馆，我们的历史将永远被保存在这个Github仓�
     例：我今天要编辑killlove条目
    
 1.  clone/pull 博物馆仓库；
-2.  编辑 `/Entries/killlove.md` 条目文件;
+2.  编辑 `/Entries/killlove/content.md` 条目文件;
 3.  运行 `/PageGenerator/run.py` 生成条目HTML;
 4.  访问`/html/entries/killlove.html` 确认无误;
 5.  Commit and push
